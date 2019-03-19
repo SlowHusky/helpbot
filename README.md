@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # echobot
 Bot Framework v4 echo bot sample
 
@@ -101,3 +102,7 @@ To learn more about deploying a bot to Azure, see [Deploy your bot to Azure][40]
 [32]: https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-basics?view=azure-bot-service-4.0
 [40]: https://aka.ms/azuredeployment
 [41]: ./PREREQUISITES.md
+=======
+# helpbot
+Bot criado durante o Hackaton da Microsoft usando Node.js
+>>>>>>> 7312ca2e389d78e8815773caadbf777fe6b8dc09
